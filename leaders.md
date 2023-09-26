@@ -1,4 +1,3 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Nura Tijjani Abubakar](mailto:nura.abubakar@owasp.org)
+* [Abubakar Abdurrahman](mailto:abubakar.abdurrahman@owasp.org)
