@@ -4,6 +4,7 @@ layout: col-sidebar
 title: OWASP Gwaram
 tags: example-tag
 region: Africa
+country: Nigeria
 meetup-group:
 
 ---
